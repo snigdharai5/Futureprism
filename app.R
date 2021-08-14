@@ -653,7 +653,7 @@ server <- function(input, output) {
         box(
             title = "Recommendations Of Skills To Include, Based On The Desired Job Profile..",
             status="primary",
-            width = 10,
+            width = 12,
             solidHeader = TRUE,
             collapsible = TRUE,
             collapsed = TRUE,
